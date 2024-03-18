@@ -3,7 +3,7 @@
 <suite name="Open Cart Parallel Suite" verbose="2" parallel="classes" thread-count="5">
     <test name="Login Page test">
         <classes>
-            <class name="TestRunner.TestRun"></class>
+            <class name="TestRunner.TestRun"/>
         </classes>
     </test>
 </suite>
